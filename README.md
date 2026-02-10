@@ -1,7 +1,17 @@
 # digital-clock-project
 
-In order to run this project, install the following:
+Requirements:
 
+To build and run this project, you need:
+
+- GCC (C compiler)
+- GNU Make
+- ncurses development libraries
+
+On Debian/Ubuntu-based Linux systems, install them with:
+
+`sudo apt install gcc`
+`sudo apt install make`
 `sudo apt install libncurses-dev`
 
 Clone the files from the repo:
